@@ -1,36 +1,9 @@
-## Working...
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vmellozk&bg_color=1b1c28&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <div align="center">
-<br>
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vmellozk" />
-</div>
-
-<div align="center">
-<br><p align="centre"><b></b></p>  
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devxxctor&theme=tokyonight" /></p> 
-<br></div>
-
-<div align="center">
-  <p align="center">
-    <img src="https://media1.giphy.com/media/cTQCfv9Ad8nGYZ0r0M/200w.gif?cid=6c09b9523ho9zc4f4tu8owncc5ob2la7h4akjppfu1vdhr9e&ep=v1_gifs_search&rid=200w.gif&ct=g" align="center" />
+  <p align="center"><b style="font-size: 434px;">Olá! Seja bem-vindo ao meu perfil! 😊</b></p>
   </p>
-  <br>
 </div>
-
-<div align="center">
-<p align="centre"><b>Pessoas que visitaram o perfil:</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{vmellozk}/count.svg" /></p> 
-<br></div>
-
-## Contato
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.devictormello@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mello-b9686a2b9/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/devxxctor)
-
-## Redes Sociais
-[![Insta](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/devxxctor/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/thevzk1)
 
 
 ## Sobre mim
@@ -89,6 +62,41 @@
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## Working...
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vmellozk&bg_color=1b1c28&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+<br>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vmellozk" />
+</div>
+
+<div align="center">
+<br><p align="centre"><b></b></p>  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devxxctor&theme=tokyonight" /></p> 
+<br></div>
+
+<div align="center">
+  <p align="center">
+    <img src="https://media1.giphy.com/media/cTQCfv9Ad8nGYZ0r0M/200w.gif?cid=6c09b9523ho9zc4f4tu8owncc5ob2la7h4akjppfu1vdhr9e&ep=v1_gifs_search&rid=200w.gif&ct=g" align="center" />
+  </p>
+  <br>
+</div>
+
+<div align="center">
+<p align="centre"><b>Pessoas que visitaram o perfil:</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{vmellozk}/count.svg" /></p> 
+<br></div>
+
+## Contato
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.devictormello@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mello-b9686a2b9/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/devxxctor)
+
+## Redes Sociais
+[![Insta](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/devxxctor/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/thevzk1)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
