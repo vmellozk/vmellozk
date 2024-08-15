@@ -28,7 +28,6 @@
 ![Streamlit](	https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-##
 
 ## Tools
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
@@ -36,11 +35,7 @@
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<div align="center">
-<br>
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vmellozk" />
-</div>
+## 
 
 <div align="center">
 <br><p align="centre"><b></b></p>  
@@ -48,16 +43,14 @@
 <br></div>
 
 <div align="center">
-  <p align="center">
-    <img src="https://media1.giphy.com/media/cTQCfv9Ad8nGYZ0r0M/200w.gif?cid=6c09b9523ho9zc4f4tu8owncc5ob2la7h4akjppfu1vdhr9e&ep=v1_gifs_search&rid=200w.gif&ct=g" align="center" />
-  </p>
-  <br>
-</div>
-
-<div align="center">
 <p align="centre"><b>Pessoas que visitaram o perfil:</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{vmellozk}/count.svg" /></p> 
 <br></div>
+
+<div align="center">
+<br>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vmellozk" />
+</div>
 
 ## Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.devictormello@gmail.com)
