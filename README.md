@@ -8,12 +8,12 @@
 
 ## Sobre mim
 
-### Sou um dev de 23 anos em ascensão. Me formei no fim de 2023 e ingressei na pós graduação a cerca de 2 meses. Venho me desenvolvendo mais e mais após sair do meu último trabalho para focar na área. Tenho um Instagram onde posto minha rotina de aprendizado e dicas com mais de 18 mil seguidores. Acredito que ensinar é também aprender.
+### Sou um dev de 23 anos em ascensão formado no fim de 2023 e terminando minha pós graduação esse ano. Venho me desenvolvendo mais e mais após sair do meu último trabalho para focar na área. Tenho um Instagram onde posto minha rotina de aprendizado e dicas com mais de 18 mil seguidores. Acredito que ensinar é também aprender.
 
 -  ‎⚔ ‎Oficial R/2 do Exército Brasileiro com muito orgulho!
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Anhanguera.
 - 📚 ‎Pós-Grad em "Ferramentas para Gestão de Dados - BigData" na Estácio de Sá.
-- 💼 Trabalhando como Freelancer a 6 meses.
+- 💼 Estagiando como FullStack em Marks Mind.
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
