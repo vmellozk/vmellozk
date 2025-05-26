@@ -4,7 +4,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/018eabe9-17ba-4560-bf60-68ee6be83537.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
 
-### Desenvolvedor com cerca de 1 ano de experiência, tendo iniciado minha carreira como full stack durante estágio. Ex Oficial do Exército, com vivência no atendimento ao público e na gestão financeira. Forte atuação com Python, Automação e Bancos de Dados Relacionais. Interesse em Dados e Back-end, com objetivo de atuar como Engenheiro de Dados.
+### Desenvolvedor Backend com forte atuação em Python e automação de processos. Experiência em construção de plataformas e soluções escaláveis usando IA, Banco de Dados e integração de APIs. Venho direcionando minha carreira para Engenharia de Dados, com foco em pipelines, ETL e cloud. Background em liderança e gestão operacional como Oficial do Exército, trazendo disciplina e foco em resultados.
 - 🎓 Graduado em "Análise e Desenvolvimento de Sistemas" pela Anhanguera.
 - 📚 ‎Pós-Graduado em "Ferramentas para Gestão de Dados - BigData" pela Estácio de Sá.
 
