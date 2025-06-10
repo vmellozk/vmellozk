@@ -26,12 +26,6 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
-##
-
-<div align="center">
-<br><p align="centre"><b></b></p>  
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devxxctor&theme=tokyonight" /></p> 
-<br></div>
 
 ## Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.devictormello@gmail.com)
