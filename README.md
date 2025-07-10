@@ -1,38 +1,66 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<h1 align="center">Olá 👋, eu sou o Victor! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">Desenvolvedor Full Stack | Aspirante a Engenheiro de Dados</h3>
 
-## Sobre mim
+<p align="center">
+  🚀 Graduado em Análise e Desenvolvimento de Sistemas e Pós Graduado em Big Data.
+  <br>
+  🧠 Cursando Engenharia de Dados com foco em ETL/ELT, workflows automatizados e aplicações de IA sobre dados estruturados e não estruturados.
+</p>
 
-[![wakatime](https://wakatime.com/badge/user/018eabe9-17ba-4560-bf60-68ee6be83537.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+---
 
-### Desenvolvedor Backend com forte atuação em Python e automação de processos. Experiência em construção de plataformas e soluções escaláveis usando IA, Banco de Dados e integração de APIs. Venho direcionando minha carreira para Engenharia de Dados, com foco em pipelines, ETL e cloud. Background em liderança e gestão operacional como Oficial do Exército, trazendo disciplina e foco em resultados.
-- 🎓 Graduado em "Análise e Desenvolvimento de Sistemas" pela Anhanguera.
-- 📚 ‎Pós-Graduado em "Ferramentas para Gestão de Dados - BigData" pela Estácio de Sá.
+### 👨‍💻 Sobre mim
 
-## Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- 💼 Desenvolvedor Full Stack (Estágio) na **Marks Mind**, onde desenvolvi uma plataforma completa com IA para geração e publicação automatizada de eBooks.
+- 🤖 Criei bots e automações com **n8n, GPT e Google APIs**, integrando atendimento automatizado com WhatsApp e agendamento inteligente.
+- 🛠️ Construtor de ferramentas open source como o **4AllDownloader**, que realiza transcrição de vídeos com IA e download de mídia.
+- ⚔️ Background de liderança como **Oficial R2 do Exército**, trazendo disciplina, execução sob pressão e foco em resultados.
 
-## Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+---
 
-## Tools
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🧰 Principais tecnologias que domino
 
-## Studying
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+- **Linguagens**: Python, JavaScript, TypeScript, SQL
+- **Frameworks**: Flask, Node.js, Express, React, Next.js
+- **Ferramentas de automação**: Selenium, n8n, GPT via API, Google APIs
+- **Banco de Dados**: MySQL, SQLite, Prisma ORM
+- **Infraestrutura**: Docker, Docker Compose, Linux, Git
+- **Outros**: RapidFuzz, Pandas, FFMpeg, Whisper API, PyPDF2
 
-## Contato
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.devictormello@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mello-b9686a2b9/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521970975762)
+---
 
+### 🛠️ Projetos em Destaque
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+🔹 **[4AllDownloader](https://github.com/BrantLauro)**  
+Transcreve vídeos com IA e realiza download de mídia via GUI.  
+`Python • PySide6 • Whisper • yt-dlp • FFMpeg`
 
-<div class="left-panel col-md-4 col-lg-3 m-bottom-xs-20 m-bottom-md-0">
+🔹 **[Sistema Financeiro Full Stack](https://github.com/BrantLauro)**  
+Gestão de clientes e ativos com backend em Node/Prisma e frontend em React/Next.  
+`TypeScript • Node.js • React • Prisma • MySQL • Docker`
+
+🔹 **[Bot com IA no WhatsApp](https://github.com/BrantLauro)**  
+Automação com n8n, GPT e Google Sheets/Calendar para atendimento inteligente.  
+`n8n • GPT API • Google APIs • Webhooks`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vmellozk&theme=react&show_icons=true&include_all_commits=true">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmellozk&theme=react&layout=compact">
+</p>
+
+---
+
+### 🤝 Vamos nos conectar?
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vxctormello/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:contato.devictormello@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/5521970975762"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
+
+---
+
