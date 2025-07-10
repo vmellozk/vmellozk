@@ -31,15 +31,15 @@
 
 ### 🛠️ Projetos em Destaque
 
-🔹 **[4AllDownloader](https://github.com/BrantLauro)**  
+🔹 **[4AllDownloader](https://github.com/vmellozk/midia-downloader)**  
 Transcreve vídeos com IA e realiza download de mídia via GUI.  
 `Python • PySide6 • Whisper • yt-dlp • FFMpeg`
 
-🔹 **[Sistema Financeiro Full Stack](https://github.com/BrantLauro)**  
+🔹 **[Sistema Financeiro Full Stack](https://github.com/vmellozk/crud-sistema-financeiro-node)**  
 Gestão de clientes e ativos com backend em Node/Prisma e frontend em React/Next.  
 `TypeScript • Node.js • React • Prisma • MySQL • Docker`
 
-🔹 **[Bot com IA no WhatsApp](https://github.com/BrantLauro)**  
+🔹 **[Bot com IA no WhatsApp](https://github.com/vmellozk/n8n-atendimento-bot)**  
 Automação com n8n, GPT e Google Sheets/Calendar para atendimento inteligente.  
 `n8n • GPT API • Google APIs • Webhooks`
 
