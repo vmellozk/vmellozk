@@ -54,7 +54,7 @@ Automação com n8n, GPT e Google Sheets/Calendar para atendimento inteligente.
 
 ---
 
-### 🤝 Vamos nos conectar?
+### 🤝 Me mande uma mensagem!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vxctormello/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
