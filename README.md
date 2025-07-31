@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Full Stack | Aspirante a Engenheiro de Dados</h3>
 
 <p align="center">
-  🚀 Graduado em Análise e Desenvolvimento de Sistemas e Pós Graduado em Big Data.
+  🚀 Graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando Engenharia de Dados.
   <br>
   🧠 Cursando Engenharia de Dados com foco em ETL/ELT, workflows automatizados e aplicações de IA sobre dados estruturados e não estruturados.
 </p>
